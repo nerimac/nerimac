@@ -1,4 +1,4 @@
-Kubernetes & AWS 
+Kubernetes & AWS
 Azure in progress...
 
 🎮 I am working as Senior DevOps Engineer
