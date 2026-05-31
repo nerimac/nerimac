@@ -1,11 +1,11 @@
-Kubernetes & AWS
+🔧 Infrastructure / Senior DevOps Engineer
 
-Azure in progress...
+☁️ Living in the cloud — AWS, Azure, Kubernetes everywhere
 
-🎮 I am working as Senior DevOps Engineer
+🛠️ Terraform · Docker · Helm · CI/CD pipelines · GitOps
 
-🧐 Interested in everything Cloud Native
+🌱 Learning Golang & Linux internals
 
-🌱 Currently trying to learn Golang and more about Linux
+❤️ Cloud Native & Open Source
 
-❤️ Open Source Software
+📍 Vilnius, Lithuania
